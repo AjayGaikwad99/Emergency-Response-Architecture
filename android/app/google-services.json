@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186949919879",
+    "project_id": "firealert-675c4",
+    "storage_bucket": "firealert-675c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186949919879:android:728f5288d5839adafd0422",
+        "android_client_info": {
+          "package_name": "com.yourcompany.fire_alert_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMeNPWEfJQpGSdaD8SdAu4YSwM57gogo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
